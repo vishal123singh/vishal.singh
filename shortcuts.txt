@@ -1,0 +1,23 @@
+﻿window commands
+
+# to create a file use " echo some content > file name " 
+eg. echo how are you > index.txt
+    echo hello world > index.js
+
+# to rename a file use " ren filetoberenamed newfilename "
+eg. ren index.js hello.js
+
+# to delete a file use " del filename "
+eg. del hello.js
+
+# to create directory/folder use " mkdir directoryName "
+eg. mkdir folder1
+
+# to move to a different drive use " Drivename: "
+eg. C:
+
+hello vishal singh.
+
+welcome to my arena.
+
+hello world.
